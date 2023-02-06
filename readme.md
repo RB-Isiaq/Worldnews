@@ -6,7 +6,7 @@
 
 - It makes use of the news data api for fetching the data
 
-- #### [The Live Link](https://world-news.netlify.app/)
+- #### [The Live Link](https://latest-worldnews.netlify.app/)
 
 I am open to open source projects, collaborations, internship and job opportunities
 
